@@ -1,12 +1,7 @@
 [
-  {
-    "key": "wadzxckljlkjgnrdskmv-nicezxcv",
-    "status": "available",
-    "admin": true
-  },
-  {
-    "key": "another-key",
-    "status": "available",
-    "admin": false
-  }
+    {
+        "key": "nicezxcvgwadjwaldsnkcn",
+        "status": "unused",  // "redeemed" after download
+        "admin": true
+    }
 ]
