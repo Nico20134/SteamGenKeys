@@ -1,16 +1,14 @@
-{
-  "keys": [
-    {
-      "key": "ABC123",
-      "expires": "2025-12-31T23:59:59",
-      "is_admin": false,
-      "owner": null
-    },
-    {
-      "key": "wadzxckljlkjgnrdskmv-nicezxcv",
-      "expires": null,
-      "is_admin": true,
-      "owner": null
-    }
-  ]
-}
+[
+  {
+    "key": "abcdef",
+    "expires": "2025-12-31T23:59:59",
+    "admin": false,
+    "owner": null
+  },
+  {
+    "key": "wadzxckljlkjgnrdskmv-nicezxcv",
+    "expires": null,
+    "admin": true,
+    "owner": null
+  }
+]
