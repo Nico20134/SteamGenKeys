@@ -1,7 +1,12 @@
 [
-    {
-        "key": "nicezxcvgwadjwaldsnkcn",
-        "status": "unused",  // "redeemed" after download
-        "admin": true
-    }
+  {
+    "key": "wadzxckljlkjgnrdskmv-nicezxcv",
+    "status": "available",
+    "admin": true
+  },
+  {
+    "key": "abcdef123456-nicezxcv",
+    "status": "redeemed",
+    "admin": false
+  }
 ]
