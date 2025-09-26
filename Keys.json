@@ -1,12 +1,12 @@
 [
-  {
-    "key": "wadzxckljlkjgnrdskmv-nicezxcv",
-    "status": "active",
-    "admin": true,
-    "expires": "2025-12-31T23:59:59"
-  },
-  {
-    "key": "another-key-1234",
-    "status": "active"
-  }
+    {
+        "key": "wadzxckljlkjgnrdskmv-nicezxcv",
+        "status": "redeemed",
+        "admin": true,
+        "expires": "2025-12-31T23:59:59"
+    },
+    {
+        "key": "another-key-1234",
+        "status": "active"
+    }
 ]
