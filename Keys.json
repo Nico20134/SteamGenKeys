@@ -1,12 +1,4 @@
 [
-  {
-    "key": "wadzxckljlkjgnrdskmv-nicezxcv",
-    "status": "available",
-    "admin": true
-  },
-  {
-    "key": "abcdef123456-nicezxcv",
-    "status": "redeemed",
-    "admin": false
-  }
+  {"key": "wadzxckljlkjgnrdskmv-nicezxcv", "status": "available", "admin": true},
+  {"key": "normal-key-123", "status": "available", "admin": false}
 ]
