@@ -1,12 +1,12 @@
 [
   {
     "key": "wadzxckljlkjgnrdskmv-nicezxcv",
-    "status": "redeemed",
+    "status": "available",
     "admin": true
   },
   {
     "key": "another-key",
-    "status": "redeemed",
+    "status": "available",
     "admin": false
   }
 ]
