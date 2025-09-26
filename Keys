@@ -4,13 +4,13 @@
       "key": "ABC123",
       "expires": "2025-12-31T23:59:59",
       "is_admin": false,
-      "used_by": null
+      "owner": null
     },
     {
       "key": "wadzxckljlkjgnrdskmv-nicezxcv",
       "expires": null,
       "is_admin": true,
-      "used_by": null
+      "owner": null
     }
   ]
 }
